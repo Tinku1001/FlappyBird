@@ -2,10 +2,6 @@
 
 A Java implementation of the classic Flappy Bird game. This project includes the game logic, graphics, and resources needed to play Flappy Bird on your local machine.
 
-## Screenshots
-
-![Game Screenshot](Screenshot%202024-07-11%20193704.png)
-
 ## Features
 
 - Simple and intuitive gameplay
