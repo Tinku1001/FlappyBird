@@ -45,18 +45,6 @@ Compile and run the game using the following commands:
 - `bottompipe.png`, `flappybird.png`, `flappybirdbg.png`, `toppipe.png`: Game assets.
 - `Screenshot 2024-07-11 193704.png`: Screenshot of the game.
 
-## Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, feel free to open an issue or reach out to me directly.
